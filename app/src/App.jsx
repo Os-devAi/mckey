@@ -45,15 +45,13 @@ function App() {
             <h1>Merry Christmas</h1>
             <p className="subtitle">& Happy New Year!</p>
             <br />
-            <p className="subtitle">"May your Christmas sparkle with laughter, shine with unforgettable moments, and overflow with the magic of joy—because you deserve the very best."</p>
-            <br />
+            <p className="subtitle">"May your Christmas sparkle with laughter, shine with unforgettable moments, and overflow with the magic of joy—because you deserve the very best."</p>            
           </div>
           <div className="image-content">
             <img src={giftImg} alt="Christmas Scene" className="main-image" />
           </div>
         </div>
-        <div className="text-content">
-          <br />
+        <div className="text-content"> 
           <p className="subtitle">To: Key R.</p>
           <p className="subtitle">From: Os.</p>
         </div>
